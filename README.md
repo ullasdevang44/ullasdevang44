@@ -20,6 +20,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-3776AB?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_next_wave/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/_next_wave)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ullas-devang/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ullasdevang44)
+
 
 ---
