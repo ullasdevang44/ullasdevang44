@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Ullas Devang  
+### Embedded Systems Developer | Tech Enthusiast 🚀  
 
-<!--
-**ullasdevang44/ullasdevang44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently working on **3 Phase Corrector**  
+- 🔭 I’m learning **IoT and Embedded Software**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats  
+![Ullas Devang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ullasdevang44&show_icons=true&theme=dark)  
+
+### 🔝 Most Used Languages  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+---
+
+### 🚀 Connect with Me:  
+- 📷 [Instagram](https://www.instagram.com/_next_wave/)  
+- 🐦 [Twitter](https://x.com/_next_wave)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ullas-devang/)  
+- 💻 [GitHub](https://github.com/ullasdevang44)  
+
+---
