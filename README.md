@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ullas Devang  
+# Hiii.., I'm Ullas Devang  
 ### Embedded Systems Developer | Tech Enthusiast 🚀  
 
 - 🌱 I’m currently working on **3 Phase Corrector**  
