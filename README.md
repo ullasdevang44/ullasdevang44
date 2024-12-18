@@ -1,5 +1,5 @@
 # Hiii.., I'm Ullas Devang  
-### Embedded Systems Developer | Tech Enthusiast 🚀  
+### Embedded Systems Developer | Tech Enthusiast 
 
 - 🌱 I’m currently working on **3 Phase Corrector**  
 - 🔭 I’m learning **IoT and Embedded Software**  
