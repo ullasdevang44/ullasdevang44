@@ -1,9 +1,8 @@
-# Hi there, I'm Ullas Devang! 👋  
+## Hi there, I'm Ullas Devang! 👋  
 ### 🚀 Embedded Systems Developer | Tech Enthusiast  
 
-- 🔭 Currently exploring **IoT and Embedded Software Development**
-- 💡 Passionate about **hardware-software integration** and **real-time embedded systems**
-
+- 🔯 Exploring **IoT and Embedded Software Development**  
+- 💡 Passionate about **hardware-software integration** and **real-time embedded systems**  
 
 ---
 
@@ -21,22 +20,12 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/-ESP32-0033A0?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Embedded%20C-orange?style=for-the-badge&logo=c&logoColor=white" />
+  
 </div>
 
 ---
 
-## 🛠️ Tools & Platforms  
-<div align="center">
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Keil%20uVision-0091BD?style=for-the-badge&logo=keil&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PlatformIO-FE7A16?style=for-the-badge&logo=platformio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-</div>
-
----
-
-## 📬 Connect with Me  
+## 📩 Connect with Me  
 <div align="center">
   <a href="https://www.instagram.com/_next_wave/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -55,4 +44,3 @@
 ---
 
 🔥 **Let's build something awesome together!** 🚀
-
