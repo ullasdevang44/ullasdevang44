@@ -25,7 +25,6 @@ I’m an Embedded Systems enthusiast with a knack for bridging **hardware and so
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ullasdevang44&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ullasdevang44&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullasdevang44&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180px"/>
 </div>
 
 ---
@@ -81,5 +80,5 @@ I’m always up for a chat about tech, projects, or collaboration. Reach out:
 
 **Let’s create something extraordinary together!** 🚀  
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZhM2QyNWQ5YWFmNWI2MDQwMzEyZTdjYzA2NjQ4YzI5Y2Y5YzMwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R9RJRg8bSBcW3ug/giphy.gif" width="200" alt="Microcontroller GIF"/>
 </div>
