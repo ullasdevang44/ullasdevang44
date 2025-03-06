@@ -72,5 +72,5 @@ I’m always up for a chat about tech, projects, or collaboration. Reach out:
 
 **Let’s create something extraordinary together!** 🚀  
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQ2MWFmZmEzM2Q0MjBlYjY4MzY1OGQ2YzQyYzQwYzVjYzRkYzMwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUS9jGJZn1kOkg/giphy.gif" width="200" alt="Tech Animation GIF"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding GIF"/>
 </div>
