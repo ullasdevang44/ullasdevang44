@@ -78,9 +78,11 @@ I’m always up for a chat about tech, projects, or collaboration. Reach out:
 
 ---
 
-**Let’s create something extraordinary together!** 🚀  
+## ⚡ Electronic Circuit Flow  
 <div align="center">
-<img src="https://media.tenor.com/YaDXbuhT3GkAAAAC/technology-circuit.gif" width="200" alt="Circuit Board Animation"/>
-
-
+  <img src="https://media.tenor.com/TF5s7AOrz_4AAAAC/circuit-electronics.gif" width="200" alt="Electronic Circuit Flow Animation"/>
 </div>
+
+---
+
+**Let’s create something extraordinary together!** 🚀  
