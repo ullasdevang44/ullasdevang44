@@ -80,5 +80,6 @@ I’m always up for a chat about tech, projects, or collaboration. Reach out:
 
 **Let’s create something extraordinary together!** 🚀  
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZhM2QyNWQ5YWFmNWI2MDQwMzEyZTdjYzA2NjQ4YzI5Y2Y5YzMwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R9RJRg8bSBcW3ug/giphy.gif" width="200" alt="Microcontroller GIF"/>
+ <img src="https://media.giphy.com/media/1d7mPqISzeYQy/giphy.gif" width="200" alt="Soldering Electronics GIF"/>
+
 </div>
